@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Mea+Culpa&display=swap');
+@import "tailwindcss";
+
+.mea-culpa {
+    font-family: 'Mea Culpa', cursive;
+}
